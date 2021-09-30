@@ -26,4 +26,4 @@ In this part  I visualize the data to have a better understanding of the data us
 
 ![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/age_dist.png "Passenger Age Distribution")
 ![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/embarked_count.png "Number of passenger Survived in each Pclass")
-![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/fare_hist.png "histogram of Paid Fare")
+![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/fare_histogram.png "histogram of Paid Fare")
