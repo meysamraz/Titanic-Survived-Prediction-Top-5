@@ -20,3 +20,10 @@ Titanic  competition use machine learning to create a model that predicts which 
 - [sklearn](https://scikit-learn.org/stable/)
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html)
 - re
+
+# Data Visualization 
+In this part  I visualize the data to have a better understanding of the data using [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
+
+![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/age_dist.png "Passenger Age Distribution")
+![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/embarked_count.png "Number of passenger Survived in each Pclass")
+![alt text](https://github.com/meysam810/Titanic-Survived-Prediction-Top-5/blob/master/images/fare_hist.png "histogram of Paid Fare")
